@@ -1,6 +1,8 @@
 
 # Jamie's Kubecon 2018 trip notes #
 
+![KubeCom18](kubecon.jpg)
+
 > KubeCon + CloudNativeCon North America 2018
 
 [URL](https://events.linuxfoundation.org/events/kubecon-cloudnativecon-north-america-2018/)
