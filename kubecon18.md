@@ -1,11 +1,11 @@
 
-# Jamie's Kubecon 2018 trip notes #
+# Jamie's KubeCon 2018 trip notes #
 
 ![KubeCom18](kubecon.jpg)
 
 > KubeCon + CloudNativeCon North America 2018
 
-[URL](https://events.linuxfoundation.org/events/kubecon-cloudnativecon-north-america-2018/)
+[Link to the event site](https://events.linuxfoundation.org/events/kubecon-cloudnativecon-north-america-2018/)
 
 ## Notable annoucements ##
 
@@ -50,13 +50,14 @@
 - **Knative** (Knative components offer developers Kubernetes-native APIs for deploying serverless-style functions, applications, and containers to an auto-scaling runtime. Knative together with Kubernetes form a general purpose platform with the unique ability to run serveless, stateful, batch, and machine learning (ML) workloads alongside one another.)
 - **KubeEdge** (KubeEdge is an open source system, an optimized version of kubelet on edge, extending native containerized application orchestration and device management to hosts at the Edge.)
 
-
-
+![Kubeedge](kubeedge_arch.png)
+[Kubeedge](https://kubeedge.io)
 
 ## My Schedule ##
 
 ### Monday 10th ###
 
 - Kubernetes and Service Mesh Workshop with VMware (all day)
+- LF Networking (LF Networking, an initiative at the Linux Foundation made up of several prominent projects in the open networking stack — FD.io, ONAP, OpenDaylight, ONFV, PNDA, SNAS, and Tungsten Fabric)
 
 ### Tuesday 11th ###
