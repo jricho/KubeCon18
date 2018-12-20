@@ -90,7 +90,7 @@
 
 - Evolution of Integration and Microservices with Service Mesh and Ballerina - Christian Posta, Red Hat
 
-[![Christian Posta](http://img.youtube.com/vi/RrJKM0BAAo/0.jpg)](http://www.youtube.com/watch?v=rRrJKM0BAAo)
+[![Christian Posta](http://img.youtube.com/vi/rRrJKM0BAAo/0.jpg)](http://www.youtube.com/watch?v=rRrJKM0BAAo)
 
 ### Thursday ###
 
