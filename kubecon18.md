@@ -76,35 +76,35 @@
 
 - Birds of a Feather: What Should a Container Build Manifest Look Like? - Nisha Kumar, VMware
 
-[![Nisha Kumar](http://img.youtube.com/watch?v=WY3s_cG9ia8.jpg)](http://www.youtube.com/watch?v=WY3s_cG9ia8)
+[![Nisha Kumar](https://img.youtube.com/vi/WY3s_cG9ia8/0.jpg)](http://www.youtube.com/watch?v=WY3s_cG9ia8)
 
 - Front-end Application Deployment Patterns - Ross Kukulinski, Heptio
 
-[![Ross Kukulinski](http://img.youtube.com/watch?v=Iih80xqpHcM.jpg)](http://www.youtube.com/watch?v=Iih80xqpHcM)
+[![Ross Kukulinski](http://img.youtube.com/vi/Iih80xqpHcM/0.jpg)](http://www.youtube.com/watch?v=Iih80xqpHcM)
 
 ### Wednesday ###
 
 - Deep dive: Kubernetes IoT Edge WG – Cindy Xing, Huawei; Dejan Bosanac, Red Hat; Preston Holmes, Google; Steve Wong, VMware
 
-[![Edge WG](http://img.youtube.com/watch?v=nWFkxuRvZ7U.jpg)](http://www.youtube.com/watch?v=nWFkxuRvZ7U)
+[![Edge WG](http://img.youtube.com/vi/nWFkxuRvZ7U/0.jpg)](http://www.youtube.com/watch?v=nWFkxuRvZ7U)
 
 - Evolution of Integration and Microservices with Service Mesh and Ballerina - Christian Posta, Red Hat
 
-[![Christian Posta](http://img.youtube.com/watch?v=rRrJKM0BAAo.jpg)](http://www.youtube.com/watch?v=rRrJKM0BAAo)
+[![Christian Posta](http://img.youtube.com/vi/RrJKM0BAAo/0.jpg)](http://www.youtube.com/watch?v=rRrJKM0BAAo)
 
 ### Thursday ###
 
 - Keynote: Smooth Operator♪: Large Scale Automated Storage with Kubernetes - Celina Ward, Software Engineer & Matt Schallert, Site Reliability Engineer, Uber
 
-[![Keynote](http://img.youtube.com/watch?v=aDFm5KaTaOk.jpg)](http://www.youtube.com/watch?v=aDFm5KaTaOk)
+[![Keynote](http://img.youtube.com/vi/aDFm5KaTaOk/0.jpg)](http://www.youtube.com/watch?v=aDFm5KaTaOk)
 
 - You Can't Have a Cluster [BLEEP] Without a Cluster - Kris Nova, Heptio
 
-[![Kris Nova](http://img.youtube.com/watch?v=CLVIbCs2VJY.jpg)](http://www.youtube.com/watch?v=CLVIbCs2VJY)
+[![Kris Nova](http://img.youtube.com/vi/CLVIbCs2VJY/0.jpg)](http://www.youtube.com/watch?v=CLVIbCs2VJY)
 
 - The Telco Networking Journey to Cloud Native: The Good, Bad, and Ugly - Heather Kirksey, The Linux Foundation
 
-[![Telco](http://img.youtube.com/watch?v=BkH83WuO2KQ.jpg)](http://www.youtube.com/watch?v=BkH83WuO2KQ)
+[![Telco](http://img.youtube.com/vi/BkH83WuO2KQ/0.jpg)](http://www.youtube.com/watch?v=BkH83WuO2KQ)
 
 ## Memorable Interactions ##
 
