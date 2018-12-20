@@ -72,39 +72,39 @@
 
 - Keynote: Developing Kubernetes Services at Airbnb Scale - Melanie Cebula, Software Engineer, Airbnb
 
-[![Melanie Cebula](https://www.youtube.com/watch?v=ytu3aUCwlSg.jpg)](https://www.youtube.com/watch?v=ytu3aUCwlSg)
+[![Melanie Cebula](https://www.img.youtube.com/watch?v=ytu3aUCwlSg.jpg)](https://www.youtube.com/watch?v=ytu3aUCwlSg)
 
 - Birds of a Feather: What Should a Container Build Manifest Look Like? - Nisha Kumar, VMware
 
-[![Nisha Kumar](https://www.youtube.com/watch?v=WY3s_cG9ia8.jpg)](https://www.youtube.com/watch?v=WY3s_cG9ia8)
+[![Nisha Kumar](https://wwimg.youtube.com/watch?v=WY3s_cG9ia8.jpg)](https://www.youtube.com/watch?v=WY3s_cG9ia8)
 
 - Front-end Application Deployment Patterns - Ross Kukulinski, Heptio
 
-[![Ross Kukulinski](https://www.youtube.com/watch?v=Iih80xqpHcM.jpg)](https://www.youtube.com/watch?v=Iih80xqpHcM)
+[![Ross Kukulinski](https://img.youtube.com/watch?v=Iih80xqpHcM.jpg)](https://www.youtube.com/watch?v=Iih80xqpHcM)
 
 ### Wednesday ###
 
 - Deep dive: Kubernetes IoT Edge WG – Cindy Xing, Huawei; Dejan Bosanac, Red Hat; Preston Holmes, Google; Steve Wong, VMware
 
-[![Edge WG](https://www.youtube.com/watch?v=nWFkxuRvZ7U.jpg)](https://www.youtube.com/watch?v=nWFkxuRvZ7U)
+[![Edge WG](https://img.youtube.com/watch?v=nWFkxuRvZ7U.jpg)](https://www.youtube.com/watch?v=nWFkxuRvZ7U)
 
 - Evolution of Integration and Microservices with Service Mesh and Ballerina - Christian Posta, Red Hat
 
-[![Christian Posta](https://www.youtube.com/watch?v=rRrJKM0BAAo.jpg)](https://www.youtube.com/watch?v=rRrJKM0BAAo)
+[![Christian Posta](https://img.youtube.com/watch?v=rRrJKM0BAAo.jpg)](https://www.youtube.com/watch?v=rRrJKM0BAAo)
 
 ### Thursday ###
 
 - Keynote: Smooth Operator♪: Large Scale Automated Storage with Kubernetes - Celina Ward, Software Engineer & Matt Schallert, Site Reliability Engineer, Uber
 
-[![Keynote](https://www.youtube.com/watch?v=aDFm5KaTaOk.jpg)](https://www.youtube.com/watch?v=aDFm5KaTaOk)
+[![Keynote](https://img.youtube.com/watch?v=aDFm5KaTaOk.jpg)](https://www.youtube.com/watch?v=aDFm5KaTaOk)
 
 - You Can't Have a Cluster [BLEEP] Without a Cluster - Kris Nova, Heptio
 
-[![Kris Nova](https://www.youtube.com/watch?v=CLVIbCs2VJY.jpg)](https://www.youtube.com/watch?v=CLVIbCs2VJY)
+[![Kris Nova](https://img.youtube.com/watch?v=CLVIbCs2VJY.jpg)](https://www.youtube.com/watch?v=CLVIbCs2VJY)
 
 - The Telco Networking Journey to Cloud Native: The Good, Bad, and Ugly - Heather Kirksey, The Linux Foundation
 
-[![Telco](https://www.youtube.com/watch?v=BkH83WuO2KQ.jpg)](https://www.youtube.com/watch?v=BkH83WuO2KQ)
+[![Telco](https://img.youtube.com/watch?v=BkH83WuO2KQ.jpg)](https://www.youtube.com/watch?v=BkH83WuO2KQ)
 
 ## Memorable Interactions ##
 
