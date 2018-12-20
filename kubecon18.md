@@ -5,7 +5,7 @@
 
 > KubeCon + CloudNativeCon North America 2018
 
-[Link to the event site](https://events.linuxfoundation.org/events/kubecon-cloudnativecon-north-america-2018/)
+[Link to the event site](http://events.linuxfoundation.org/events/kubecon-cloudnativecon-north-america-2018/)
 
 ## Notable annoucements ##
 
@@ -47,16 +47,16 @@
 
 - **Knative** (Knative components offer developers Kubernetes-native APIs for deploying serverless-style functions, applications, and containers to an auto-scaling runtime. Knative together with Kubernetes form a general purpose platform with the unique ability to run serveless, stateful, batch, and machine learning (ML) workloads alongside one another.)
 
-[Knative](https://github.com/knative/docs)
+[Knative](http://github.com/knative/docs)
 
 - **KubeEdge** (KubeEdge is an open source system, an optimized version of kubelet on edge, extending native containerized application orchestration and device management to hosts at the Edge.)
 
 ![Kubeedge](kubeedge_arch.png)
-[Kubeedge](https://kubeedge.io)
+[Kubeedge](http://kubeedge.io)
 
 - **Kubevirt** KubeVirt is a virtual machine management add-on for Kubernetes. The aim is to provide a common ground for virtualization solutions on top of Kubernetes.
 
-[Kubevirt](https://github.com/kubevirt/kubevirt)
+[Kubevirt](http://github.com/kubevirt/kubevirt)
 
 ## Highlights from my schedule ##
 
@@ -72,39 +72,39 @@
 
 - Keynote: Developing Kubernetes Services at Airbnb Scale - Melanie Cebula, Software Engineer, Airbnb
 
-[![Melanie Cebula](https://www.img.youtube.com/watch?v=ytu3aUCwlSg.jpg)](https://www.youtube.com/watch?v=ytu3aUCwlSg)
+[![Melanie Cebula](http://www.img.youtube.com/watch?v=ytu3aUCwlSg.jpg)](http://www.youtube.com/watch?v=ytu3aUCwlSg)
 
 - Birds of a Feather: What Should a Container Build Manifest Look Like? - Nisha Kumar, VMware
 
-[![Nisha Kumar](https://wwimg.youtube.com/watch?v=WY3s_cG9ia8.jpg)](https://www.youtube.com/watch?v=WY3s_cG9ia8)
+[![Nisha Kumar](http://wwimg.youtube.com/watch?v=WY3s_cG9ia8.jpg)](http://www.youtube.com/watch?v=WY3s_cG9ia8)
 
 - Front-end Application Deployment Patterns - Ross Kukulinski, Heptio
 
-[![Ross Kukulinski](https://img.youtube.com/watch?v=Iih80xqpHcM.jpg)](https://www.youtube.com/watch?v=Iih80xqpHcM)
+[![Ross Kukulinski](http://img.youtube.com/watch?v=Iih80xqpHcM.jpg)](http://www.youtube.com/watch?v=Iih80xqpHcM)
 
 ### Wednesday ###
 
 - Deep dive: Kubernetes IoT Edge WG – Cindy Xing, Huawei; Dejan Bosanac, Red Hat; Preston Holmes, Google; Steve Wong, VMware
 
-[![Edge WG](https://img.youtube.com/watch?v=nWFkxuRvZ7U.jpg)](https://www.youtube.com/watch?v=nWFkxuRvZ7U)
+[![Edge WG](http://img.youtube.com/watch?v=nWFkxuRvZ7U.jpg)](http://www.youtube.com/watch?v=nWFkxuRvZ7U)
 
 - Evolution of Integration and Microservices with Service Mesh and Ballerina - Christian Posta, Red Hat
 
-[![Christian Posta](https://img.youtube.com/watch?v=rRrJKM0BAAo.jpg)](https://www.youtube.com/watch?v=rRrJKM0BAAo)
+[![Christian Posta](http://img.youtube.com/watch?v=rRrJKM0BAAo.jpg)](http://www.youtube.com/watch?v=rRrJKM0BAAo)
 
 ### Thursday ###
 
 - Keynote: Smooth Operator♪: Large Scale Automated Storage with Kubernetes - Celina Ward, Software Engineer & Matt Schallert, Site Reliability Engineer, Uber
 
-[![Keynote](https://img.youtube.com/watch?v=aDFm5KaTaOk.jpg)](https://www.youtube.com/watch?v=aDFm5KaTaOk)
+[![Keynote](http://img.youtube.com/watch?v=aDFm5KaTaOk.jpg)](http://www.youtube.com/watch?v=aDFm5KaTaOk)
 
 - You Can't Have a Cluster [BLEEP] Without a Cluster - Kris Nova, Heptio
 
-[![Kris Nova](https://img.youtube.com/watch?v=CLVIbCs2VJY.jpg)](https://www.youtube.com/watch?v=CLVIbCs2VJY)
+[![Kris Nova](http://img.youtube.com/watch?v=CLVIbCs2VJY.jpg)](http://www.youtube.com/watch?v=CLVIbCs2VJY)
 
 - The Telco Networking Journey to Cloud Native: The Good, Bad, and Ugly - Heather Kirksey, The Linux Foundation
 
-[![Telco](https://img.youtube.com/watch?v=BkH83WuO2KQ.jpg)](https://www.youtube.com/watch?v=BkH83WuO2KQ)
+[![Telco](http://img.youtube.com/watch?v=BkH83WuO2KQ.jpg)](http://www.youtube.com/watch?v=BkH83WuO2KQ)
 
 ## Memorable Interactions ##
 
