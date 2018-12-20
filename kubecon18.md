@@ -72,11 +72,11 @@
 
 - Keynote: Developing Kubernetes Services at Airbnb Scale - Melanie Cebula, Software Engineer, Airbnb
 
-[![Melanie Cebula](http://www.img.youtube.com/watch?v=ytu3aUCwlSg.jpg)](http://www.youtube.com/watch?v=ytu3aUCwlSg)
+[![Melanie Cebula](http://img.youtube.com/vi/ytu3aUCwlSg.jpg)](http://www.youtube.com/watch?v=ytu3aUCwlSg)
 
 - Birds of a Feather: What Should a Container Build Manifest Look Like? - Nisha Kumar, VMware
 
-[![Nisha Kumar](http://wwimg.youtube.com/watch?v=WY3s_cG9ia8.jpg)](http://www.youtube.com/watch?v=WY3s_cG9ia8)
+[![Nisha Kumar](http://img.youtube.com/watch?v=WY3s_cG9ia8.jpg)](http://www.youtube.com/watch?v=WY3s_cG9ia8)
 
 - Front-end Application Deployment Patterns - Ross Kukulinski, Heptio
 
