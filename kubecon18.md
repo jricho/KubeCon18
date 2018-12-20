@@ -72,7 +72,7 @@
 
 - Keynote: Developing Kubernetes Services at Airbnb Scale - Melanie Cebula, Software Engineer, Airbnb
 
-[![Melanie Cebula](https://www.youtube.com/watch?v=ytu3aUCwlSg)](https://www.youtube.com/watch?v=ytu3aUCwlSg)
+[![Melanie Cebula](https://www.youtube.com/watch?v=ytu3aUCwlSg.jpg)](https://www.youtube.com/watch?v=ytu3aUCwlSg)
 
 - Birds of a Feather: What Should a Container Build Manifest Look Like? - Nisha Kumar, VMware
 
@@ -90,31 +90,33 @@
 
 - Evolution of Integration and Microservices with Service Mesh and Ballerina - Christian Posta, Red Hat
 
-[![Christian Posta](https://www.youtube.com/watch?v=rRrJKM0BAAo)](https://www.youtube.com/watch?v=rRrJKM0BAAo)
+[![Christian Posta](https://www.youtube.com/watch?v=rRrJKM0BAAo.jpg)](https://www.youtube.com/watch?v=rRrJKM0BAAo)
 
 ### Thursday ###
 
 - Keynote: Smooth Operator♪: Large Scale Automated Storage with Kubernetes - Celina Ward, Software Engineer & Matt Schallert, Site Reliability Engineer, Uber
 
-[![Keynote](https://www.youtube.com/watch?v=aDFm5KaTaOk)](https://www.youtube.com/watch?v=aDFm5KaTaOk)
+[![Keynote](https://www.youtube.com/watch?v=aDFm5KaTaOk.jpg)](https://www.youtube.com/watch?v=aDFm5KaTaOk)
 
 - You Can't Have a Cluster [BLEEP] Without a Cluster - Kris Nova, Heptio
 
-[![Kris Nova](https://www.youtube.com/watch?v=CLVIbCs2VJY)](https://www.youtube.com/watch?v=CLVIbCs2VJY)
+[![Kris Nova](https://www.youtube.com/watch?v=CLVIbCs2VJY.jpg)](https://www.youtube.com/watch?v=CLVIbCs2VJY)
 
 - The Telco Networking Journey to Cloud Native: The Good, Bad, and Ugly - Heather Kirksey, The Linux Foundation
 
-[![Telco](https://www.youtube.com/watch?v=BkH83WuO2KQ)](https://www.youtube.com/watch?v=BkH83WuO2KQ)
+[![Telco](https://www.youtube.com/watch?v=BkH83WuO2KQ.jpg)](https://www.youtube.com/watch?v=BkH83WuO2KQ)
 
 ## Memorable Interactions ##
 
-Joe Beda - CEO and Founder, Heptio (1 of 3 creators of Kubernetes)
-Kris Nova - Senior Staff Developer Advocate, Heptio
-Kelsey Hightower - Staff Developer Advocate, Google
-Alex Ellis - Staff Systems Engineer, Vmware OSS (founder of OpenFaaS)
-Derek Collison - Founder & CEO, Synadia Communications
-Mitchell Hashimoto - Founder & CTO, Hashicorp
+- Joe Beda - CEO and Founder, Heptio (1 of 3 creators of Kubernetes)
+- Kris Nova - Senior Staff Developer Advocate, Heptio
+- Kelsey Hightower - Staff Developer Advocate, Google
+- Alex Ellis - Staff Systems Engineer, Vmware OSS (founder of OpenFaaS)
+- Derek Collison - Founder & CEO, Synadia Communications
+- Mitchell Hashimoto - Founder & CTO, Hashicorp
 
-> Number of shirts collected - 7
-> Number of book collected - 2
-> Number of stickers collected - 28
+## Swag ##
+
+> Number of **shirts** collected - 7
+> Number of **books** collected - 2
+> Number of **stickers** collected - 28
