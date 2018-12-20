@@ -72,7 +72,7 @@
 
 - Keynote: Developing Kubernetes Services at Airbnb Scale - Melanie Cebula, Software Engineer, Airbnb
 
-[![Melanie Cebula](http://img.youtube.com/vi/ytu3aUCwlSg.jpg)](http://www.youtube.com/watch?v=ytu3aUCwlSg)
+[![Melanie Cebula](https://img.youtube.com/vi/ytu3aUCwlSg/0.jpg)](http://www.youtube.com/watch?v=ytu3aUCwlSg)
 
 - Birds of a Feather: What Should a Container Build Manifest Look Like? - Nisha Kumar, VMware
 
