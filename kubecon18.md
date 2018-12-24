@@ -4,7 +4,8 @@
 ![KubeCom18](kubecon.jpg)
 
 > KubeCon + CloudNativeCon North America 2018
-> **From 1500 people in 2016 to over 8000 people in 2018!**
+
+**From 1500 people in 2016 to over 8000 people in 2018!**
 
 [Link to the event site](http://events.linuxfoundation.org/events/kubecon-cloudnativecon-north-america-2018/)
 
@@ -34,7 +35,7 @@
 
 *Data analytics company Iguazio Systems Ltd. is teaming up with Google and Trax Technology Solutions Pte Ltd. to provide real-time supply chain and inventory management services for the retail sector. Iguazio sells a serverless data platform-as-a-service product that’s focused on delivering real-time intelligence at the network edge. To simplify processing of data, Iguazio relies on technologies including big-data and machine learning software such as Apache Spark, TensorFlow and Kubernetes, which manages software “containers” that allow applications to run the same on many different computing environments.*
 
-[!Iguazio](Iguazio-Trax.png)
+![Iguazio](Iguazio-Trax.png)
 
 - **Oracle announces Cloud Native Framework.**
 
