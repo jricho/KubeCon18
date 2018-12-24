@@ -4,6 +4,7 @@
 ![KubeCom18](kubecon.jpg)
 
 > KubeCon + CloudNativeCon North America 2018
+> **From 1500 people in 2016 to over 8000 people in 2018!**
 
 [Link to the event site](http://events.linuxfoundation.org/events/kubecon-cloudnativecon-north-america-2018/)
 
@@ -25,17 +26,33 @@
 
 *etcd is a distributed key value store that provides a reliable way to manage the coordination state of distributed systems. etcd was first announced in June 2013 by CoreOS (part of Red Hat as of 2018). Since its adoption as part of Kubernetes in 2014, etcd has become a fundamental part of the Kubernetes cluster management software design, and the etcd community has grown exponentially. etcd is now being used in production environments at multiple companies, by large cloud providers such as AWS, Google Cloud Platform, Azure, and other on-premises Kubernetes implementations*.
 
-- **Envoy has become a CNCF graduated project, joining Kubernetes and Prometheus**.
+- **Envoy has become a CNCF graduated project, joining Kubernetes and Prometheus.**
 
 *Envoy’s goal is to abstract the network from application developers so that they can focus on business logic. In order to provide rich and easy to use abstractions for modern cloud native applications, Envoy focuses on the L7 or application layer of the stack. In addition to support for HTTP and gRPC, Envoy also supports Redis, Thrift, MongoDB, global rate limiting, external authentication and authorization, and many other features geared towards building modern distributed applications*.
+
+- **Iguazio and Google partner on retail inventory tracking system at the cloud’s edge.**
+
+*Data analytics company Iguazio Systems Ltd. is teaming up with Google and Trax Technology Solutions Pte Ltd. to provide real-time supply chain and inventory management services for the retail sector. Iguazio sells a serverless data platform-as-a-service product that’s focused on delivering real-time intelligence at the network edge. To simplify processing of data, Iguazio relies on technologies including big-data and machine learning software such as Apache Spark, TensorFlow and Kubernetes, which manages software “containers” that allow applications to run the same on many different computing environments.*
+
+[!Iguazio](Iguazio-Trax.png)
+
+- **Oracle announces Cloud Native Framework.**
+
+*Oracle today announced the Oracle Cloud Native Framework, providing developers a cloud native solution that spans public cloud, on premises and hybrid cloud deployments. Capitalizing on Oracle Cloud Infrastructure and the recently announced Oracle Linux Cloud Native Environment, the Oracle Cloud Native Framework introduces a rich set of cloud native managed services and on-premises software. The Oracle Cloud Native Framework also introduces Oracle Functions, a new breakthrough serverless cloud service based on the open source Fn Project.*
+
+- **Google Cloud will announce beta availability of Istio on GKE.**
+
+*Google has just announced beta availability of what it says is a critical tool for managing a relatively new kind of software emerging in the cloud computing era. The public cloud computing giant is one of the main developers of Istio, the open-source “service mesh” is used to connect, manage and secure microservices, which in turn are the components of containerized apps.*
+
 
 ## Key Takeaways ##
 
 - Istio is the new black. KubeCon focus shifted away from new features of Kubernetes, focussing mainly on stability, towards Service Mesh.
 - Custome Resource Definitions (CRD) and Operators received a large amnount of coverage. Operators essentially allow developers to write an application to fully manage another (think databases).
-- The acquisition of Heptio by VMware was well received by the community
+- The acquisition of Heptio by VMware was well received by the community, however there was a lot of chatter about the perceived inflated price, further reflecting the strength of the Kubernetes ecosystem.
 - Building and managing your own Kubernetes cluster is **_not_** recommended
 - Knative is becoming the defacto framework and standard for running serverless on top of kubernetes, garnering support from a large amount of kubernetes ecosystem memebers
+- Multiple efforts around the viability and suitability of Kubernetes in IoT architectures and at the edge.
 
 ## Must See ##
 
@@ -117,6 +134,6 @@
 
 ## Swag ##
 
-> Number of **shirts** collected - 7
-> Number of **books** collected - 2
-> Number of **stickers** collected - 28
+- Number of **shirts** collected - 7
+- Number of **books** collected - 2
+- Number of **stickers** collected - 28
