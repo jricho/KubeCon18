@@ -15,21 +15,31 @@
 
 *Kuberentes 1.13 was actually announced earlier this month, prior to KubeCon Seattle. This release continues to focus on stability and extensibility of Kubernetes with three major features that have graduated to general availability in the areas of  Storage and Cluster Lifecycle. Notable features include: simplified cluster management with kubeadm, Container Storage Interface (CSI), and CoreDNS as the default DNS*.
 
+[link](https://kubernetes.io/blog/2018/12/03/kubernetes-1-13-release-announcement/)
+
 - **On Tuesday 11th December, VMware completed the acquisition of Heptio**.
 
 *VMware paid $550 million for its recently closed acquisition of 2-year-old Kubernetes-focused startup Heptio. Heptio launched under the guise of making Kubernetes more accessible to developers running apps on-premises or in the public cloud. The company’s founders – Joe Beda and Craig McLuckie – formed Heptio having both been involved at Google on its Compute Engine and the platform that eventually became the open source Kubernetes project. Both remain active in the Kubernetes community*.
+
+[link](https://siliconangle.com/2018/12/17/kubernetes-big-picture-microsoft-google-vmware-heptios-co-founder-weights-guestoftheweek/)
 
 - **VMware annoucend NSX Service Mesh**.
 
 *VMware announced the new service, which will be available early next year initially as part of Cloud PKS service in early 2019, at the Kubecon + CloudNativeCon conference, being held this week in Seattle. A stand-alone version will be ready later next year. Using the open source Istio as a foundation, VMware has introduced the VMware NSX Service Mesh to provide application-level visibility, control, and security for enterprise-grade microservices, all managed through a developer-friendly application interface (API)*.
 
+[link](https://www.sdxcentral.com/articles/news/vmware-nsx-service-mesh-based-istio/2018/12/)
+
 - **Cloud Native Computing Foundation (CNCF) voted to accept etcd as an incubation-level hosted project**.
 
 *etcd is a distributed key value store that provides a reliable way to manage the coordination state of distributed systems. etcd was first announced in June 2013 by CoreOS (part of Red Hat as of 2018). Since its adoption as part of Kubernetes in 2014, etcd has become a fundamental part of the Kubernetes cluster management software design, and the etcd community has grown exponentially. etcd is now being used in production environments at multiple companies, by large cloud providers such as AWS, Google Cloud Platform, Azure, and other on-premises Kubernetes implementations*.
 
+[link](https://www.cncf.io/blog/2018/12/11/cncf-to-host-etcd/)
+
 - **Envoy has become a CNCF graduated project, joining Kubernetes and Prometheus.**
 
 *Envoy’s goal is to abstract the network from application developers so that they can focus on business logic. In order to provide rich and easy to use abstractions for modern cloud native applications, Envoy focuses on the L7 or application layer of the stack. In addition to support for HTTP and gRPC, Envoy also supports Redis, Thrift, MongoDB, global rate limiting, external authentication and authorization, and many other features geared towards building modern distributed applications*.
+
+[link](https://www.cncf.io/announcement/2018/11/28/cncf-announces-envoy-graduation/)
 
 - **Iguazio and Google partner on retail inventory tracking system at the cloud’s edge.**
 
@@ -41,10 +51,13 @@
 
 *Oracle today announced the Oracle Cloud Native Framework, providing developers a cloud native solution that spans public cloud, on premises and hybrid cloud deployments. Capitalizing on Oracle Cloud Infrastructure and the recently announced Oracle Linux Cloud Native Environment, the Oracle Cloud Native Framework introduces a rich set of cloud native managed services and on-premises software. The Oracle Cloud Native Framework also introduces Oracle Functions, a new breakthrough serverless cloud service based on the open source Fn Project.*
 
+[link](https://www.oracle.com/corporate/pressrelease/oracle-cloud-native-framework-121118.html)
+
 - **Google Cloud will announce beta availability of Istio on GKE.**
 
 *Google has just announced beta availability of what it says is a critical tool for managing a relatively new kind of software emerging in the cloud computing era. The public cloud computing giant is one of the main developers of Istio, the open-source “service mesh” is used to connect, manage and secure microservices, which in turn are the components of containerized apps.*
 
+[link](https://techcrunch.com/2018/12/11/google-launches-istio-on-gke/)
 
 ## Key Takeaways ##
 
