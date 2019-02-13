@@ -62,14 +62,15 @@
 
 ## Key Takeaways ##
 
-- Istio is the new black. KubeCon focus shifted away from new features of Kubernetes, focussing mainly on stability, towards Service Mesh.
-- Custome Resource Definitions (CRD) and Operators received a large amnount of coverage. Operators essentially allow developers to write an application to fully manage another (think databases).
+- Service Mesh is the new black. KubeCon focus shifted away from new features of Kubernetes, focussing mainly on stability, towards Service Mesh.
+- Custome Resource Definitions (CRD) and Operators received a large amnount of coverage. Operators essentially allow developers to write an application to fully manage another (think databases, logging, monitoring), using and extending the k8s API.
 - The acquisition of Heptio by VMware was well received by the community, however there was a lot of chatter about the perceived inflated price, further reflecting the strength of the Kubernetes ecosystem.
 - Building and managing your own Kubernetes cluster is **_not_** recommended
-- Knative is becoming the defacto framework and standard for running serverless on top of kubernetes, garnering support from a large amount of kubernetes ecosystem memebers
+- Knative is becoming the defacto framework and standard for running serverless on top of kubernetes, garnering support from a large amount of kubernetes ecosystem memebers.
 - Multiple efforts around the viability and suitability of Kubernetes in IoT architectures and at the edge.
 - More work is required around container storage, Rook is getting a lot of attention, CSI GA will help.
-- Development of Cloud Native & Microservices specific languages (ballerina), developer tooling (Pulumi), and IDE's (Red Hat CodeReady - codeenvy/eclipse che)
+- Development of Cloud Native & Microservices specific languages (ballerina), developer tooling (Pulumi - no YAML/DSL), and IDE's (Red Hat CodeReady - codeenvy/eclipse che).
+- A lot of sessions around k8s secruity (no cluster-admin, image scanning & registry checks, admission controllers, running code from unknown sources)
 
 ## Must See ##
 
