@@ -14,6 +14,7 @@
 - **Kubernetes 1.13 released**
 
 *Kuberentes 1.13 was actually announced earlier this month, prior to KubeCon Seattle. This release continues to focus on stability and extensibility of Kubernetes with three major features that have graduated to general availability in the areas of  Storage and Cluster Lifecycle. Notable features include: simplified cluster management with kubeadm, Container Storage Interface (CSI), and CoreDNS as the default DNS*.
+*With CSI, the Kubernetes volume layer becomes more extensible which provides an opportunity for third party storage providers to write plugins that interoperate with Kubernetes without having to modify the core code*
 
 [link](https://kubernetes.io/blog/2018/12/03/kubernetes-1-13-release-announcement/)
 
@@ -67,10 +68,19 @@
 - Building and managing your own Kubernetes cluster is **_not_** recommended
 - Knative is becoming the defacto framework and standard for running serverless on top of kubernetes, garnering support from a large amount of kubernetes ecosystem memebers
 - Multiple efforts around the viability and suitability of Kubernetes in IoT architectures and at the edge.
+- More work is required around container storage, Rook is getting a lot of attention, CSI GA will help.
+- Development of Cloud Native & Microservices specific languages (ballerina), developer tooling (Pulumi), and IDE's (Red Hat CodeReady - codeenvy/eclipse che)
 
 ## Must See ##
 
 ### Kelsey Hightowers Keynote ###
+
+Kelsey demonstrated that Serverless computing is not limited by technologies, frameworks or vendor offerings but is governed by the need of Serverless frameworks in the technology world. Kelsey wrote the function code in Fortran ran the code locally on a container which was then divided into two parts:
+
+- Executing Engine
+- Executing Code
+
+He then packaged and deployed these two components, first, on AWS Lambda and then on GCE.
 
 [![Kelsey Hightowers Keynote](http://img.youtube.com/vi/oNa3xK2GFKY/0.jpg)](http://www.youtube.com/watch?v=oNa3xK2GFKY)
 
@@ -88,6 +98,12 @@
 - **Kubevirt** KubeVirt is a virtual machine management add-on for Kubernetes. The aim is to provide a common ground for virtualization solutions on top of Kubernetes.
 
 [Kubevirt](http://github.com/kubevirt/kubevirt)
+
+- **Kubeflow**
+
+The Kubeflow project is dedicated to making deployments of machine learning (ML) workflows on Kubernetes simple, portable and scalable. It is the machine learning toolkit for Kubernetes and offers a  Jupyter Hub to help create interactive Jupyter notebooks, TensorFlow and a number of other TensorFlow tools, like the Training Controller for native distributed training. Kubeflow also supports Argo, for managing ML workflows. Future plans for Kubeflow include support for more ML frameworks like Spark ML, XGBoost, and sklearn.
+
+[Kubecflow](https://github.com/kubeflow/kubeflow/blob/master/README.md)
 
 ## Highlights from my schedule ##
 
